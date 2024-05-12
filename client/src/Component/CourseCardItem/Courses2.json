@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://img-b.udemycdn.com/course/240x135/1463348_52a4_4.jpg",
+    "title": "Modern JavaScript From The Beginning 2.0 (2024)",
+    "description": "A 36-hour master course to take you from beginner to advanced JavaScript",
+    "rating": 4.5,
+    "link": "https://example.com/course1"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://img-b.udemycdn.com/course/240x135/405926_02c8_2.jpg",
+    "title": "HTML and CSS for Beginners - Build a Website & Launch ONLINE",
+    "description": "HTML and CSS for Beginners course will give your all the knowledge you need to master HTML and CSS easily.",
+    "rating": 4.7,
+    "link": "https://www.udemy.com/course/html-and-css-for-beginners-crash-course-learn-fast-easy/?couponCode=LETSLEARNNOWPP"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://img-b.udemycdn.com/course/240x135/4149968_c1c2.jpg",
+    "title": "Java Foundations: The Complete Course with Java 21 Updates",
+    "description": "Covers Java 21 & Earlier, Regex, TDD/Testing, Optionals, JDBC/SQL Intro to Spring & More Using IntelliJ",
+    "rating": 4.6,
+    "link": "https://www.udemy.com/course/neutrino-java-foundations/?couponCode=LETSLEARNNOWPP"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://img-b.udemycdn.com/course/240x135/919038_3ae1_13.jpg",
+    "title": "Python Masterclass: Learn Python From Scratch, Build 24 Apps",
+    "description": "Python course for beginners, Learn Python,Data Analysis, PyQt6, Django, Flask, OpenCV, Python Projects and a lot more.",
+    "rating": 4.7,
+    "link": "https://www.udemy.com/course/python-masterclass-course/?couponCode=LETSLEARNNOWPP"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://img-b.udemycdn.com/course/240x135/4979226_3059_2.jpg",
+    "title": "Quick Start to Modern C++ for Programmers [2024 Edition]",
+    "description": "Complete C++ Course for Programmers experienced in other Languages. Everything from C++11 to C++23 and updated.",
+    "rating": 4.6,
+    "link": "https://www.udemy.com/course/quick-start-to-modern-c-for-programmers/?couponCode=LETSLEARNNOWPP"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://img-b.udemycdn.com/course/240x135/4121154_cba8_10.jpg",
+    "title": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+    "description": "Level up your SQL query skills and go from intermediate to advanced level",
+    "rating": 4.5,
+    "link": "https://www.udemy.com/course/the-advanced-sql-course-2021/?couponCode=LETSLEARNNOWPP"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://img-b.udemycdn.com/course/240x135/1419186_5b21_2.jpg",
+    "title": "Data Structures and Algorithms: Deep Dive Using Java",
+    "description": "Learn about Arrays, Linked Lists, Trees, Hashtables, Stacks, Queues, Heaps, Sort algorithms and Search algorithms",
+    "rating": 4.6,
+    "link": "https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/?couponCode=LETSLEARNNOWPP"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://img-b.udemycdn.com/course/240x135/756150_c033_2.jpg",
+    "title": "Build an app with ASPNET Core and Angular from scratch",
+    "description": "Master Angular and build awesome, reactive web apps with the successor of Angular.js",
+    "rating": 4.4,
+    "link": "https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/?couponCode=LETSLEARNNOWPP"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://img-b.udemycdn.com/course/240x135/5088334_1575_3.jpg",
+    "title": "Android App Development in 34 Hours : MobDevOps+ Android 13",
+    "description": "You don't need 34+ hours for learning kotlin! START ! Learn Kotlin in 34 Hours and write you own applications | NEW 2023",
+    "rating": 4.6,
+    "link": "https://www.udemy.com/course/android-kotlin-development/?couponCode=LETSLEARNNOWPP"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://img-b.udemycdn.com/course/240x135/1778502_f4b9_12.jpg",
+    "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+    "description": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module to SwiftUI!",
+    "rating": 4.8,
+    "link": "https://www.udemy.com/course/ios-13-app-development-bootcamp/?couponCode=LETSLEARNNOWPP"
+  }
+]

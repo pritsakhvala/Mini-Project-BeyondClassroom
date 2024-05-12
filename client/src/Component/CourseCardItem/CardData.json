@@ -1,0 +1,96 @@
+[
+  {
+    "title": "Full Stack Developer",
+    "subtitle": "Advance Level",
+    "episodes": [
+      "HTML & CSS",
+      "JavaScript",
+      "ReactJs",
+      "VueJS",
+      "AngularJs",
+      "Node.js",
+      "Python"
+    ]
+  },
+  {
+    "title": "Android Developer",
+    "subtitle": "Intermediate Level",
+    "episodes": [
+      "Java",
+      "Kotlin",
+      "Android Basics",
+      " Advanced Android Development",
+      "Android Architecture Components",
+      "Testing & Debugging",
+      "Android Firebase",
+      "Publishing & Distribution"
+    ]
+  },
+  {
+    "title": "iOS Developer",
+    "subtitle": "Intermediate Level",
+    "episodes": [
+      "Swift Programming Language",
+      "Objective-C (Optional)",
+      "iOS App Development Basics",
+      "iOS Frameworks (UIKit, SwiftUI, etc.)",
+      "Networking & Data Management",
+      "Firebase in iOS",
+      "iOS Debugging in Xcode"
+    ]
+  },
+  {
+    "title": "Java Developer",
+    "subtitle": "Beginner Level",
+    "episodes": [
+      "Basics of Programming",
+      "Object-Oriented Programming (OOP)",
+      "Java Syntax and Language Features",
+      "Data Structures and Algorithms",
+      "Database Basics",
+      "Version Control"
+    ]
+  },
+  {
+    "title": "Machine Learning",
+    "subtitle": "Advance Level",
+    "episodes": [
+      "Mathematics and Statistics Fundamentals",
+      "Programming Skills",
+      "Introduction to Machine Learning",
+      "Exploratory Data Analysis (EDA)",
+      "Supervised Learning",
+      "Unsupervised Learning",
+      "Model Evaluation and Validation",
+      "Feature Selection and Dimensionality Reduction"
+    ]
+  },
+  {
+    "title": "Front-end Developer",
+    "subtitle": "Beginner Level",
+    "episodes": [
+      "HTML (Hypertext Markup Language)",
+      "CSS (Cascading Style Sheets)",
+      "JavaScript",
+      "Responsive Web Design",
+      "Version Control",
+      "CSS Preprocessors and Build Tools",
+      "Front-End Frameworks",
+      "Browser Developer Tools"
+    ]
+  },
+  {
+    "title": "Back-end Developer",
+    "subtitle": "Beginner Level",
+    "episodes": [
+      "JavaScript (Node.js)",
+      "PHP",
+      "MongoDB",
+      "MySQL",
+      "Web Servers and APIs",
+      "JavaScript (Node.js): Express.js, Koa.js, Nest.js",
+      "Java: Spring Boot, Dropwizard, Play Framework",
+      "Middleware"
+    ]
+  }
+]
